@@ -13,7 +13,9 @@ men_stepped_on_the_moon=input()
 
 print(men_stepped_on_the_moon)
 ## Output
-https://github.com/user-attachments/assets/095f0522-2ff3-4ff2-94d0-11e2c208581d
+
 
 ## Result
+<img width="851" height="256" alt="image" src="https://github.com/user-attachments/assets/0411e009-609f-4b77-961c-80ad922cbe20" />
+
 Thus, the program has been successfully executed.
